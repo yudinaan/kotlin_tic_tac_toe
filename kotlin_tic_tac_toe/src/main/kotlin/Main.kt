@@ -13,7 +13,7 @@ fun main() {
         val and = victory_check(field)
         println(and)
         if(round == 5){
-            if(and == 0) println("Ничья!")
+            if(and == 0) println("Ничья! ")
         }
         if(and == 1) continue
 
